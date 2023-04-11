@@ -2,11 +2,11 @@
 
 I am currently pursuing a rigourous and comprehensive MSc Business Analytics degree at Warwick Business School, UK. I'm passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. I am experienced in building machine learning models, analysing large datasets and building mathematical models for optimisation across a wide range of use cases.
 
-<a href="https://www.linkedin.com/in/ruthuparan-prasad" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/ruthuparan-prasad" target = "_blank" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
     &nbsp;
-<a href="mailto:ruthuparan1998@.com" rel="nofollow noreferrer">
+<a href="mailto:ruthuparan1998@.com" target = "_blank" rel="nofollow noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
 </a>
 
