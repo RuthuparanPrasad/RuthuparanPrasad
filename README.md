@@ -60,9 +60,9 @@ Here are some projects I worked on during my Master's programme: <a href="https:
     </td>
     <td>matplotlib</td>
        <td>
-      <a><img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/> </a> 
+      <a><img src="https://tidyr.tidyverse.org/logo.png" alt="tidyr" width="40" height="40"/> </a> 
     </td>
-    <td>ggplot2</td>
+    <td>tidyr</td>
   </tr>
   <tr>
     <td>
