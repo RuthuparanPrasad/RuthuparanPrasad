@@ -2,6 +2,8 @@
 
 I am currently pursuing a rigorous and comprehensive MSc Business Analytics degree at Warwick Business School, UK. I'm passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. I am experienced in building machine learning models, analysing large datasets and building mathematical models for optimisation across a wide range of use cases.
 
+I previously worked at Bank of America as a Software Engineer for 2 years, where I was the primary developer for end-to-end stock order flow automation that enabled automatic error detection and consistency checks. 
+
 Here are some projects I worked on during my Master's programme: <a href="https://github.com/RuthuparanPrasad/MSBA-Projects" target="_blank">MSBA Projects</a> 🔗
 
 <a href="https://www.linkedin.com/in/ruthuparan-prasad" target = "_blank" rel="nofollow noreferrer">
