@@ -6,6 +6,8 @@ I previously worked at Bank of America as a Software Engineer for 2 years. I wor
 
 Here are some projects I worked on during my Master's programme: <a href="https://github.com/RuthuparanPrasad/MSBA-Projects" target="_blank">MSBA Projects</a> 🔗
 
+An inexhaustive list of some certifications and courses I have completed: <a href="https://www.linkedin.com/in/ruthuparan-prasad/details/certifications/" target="_blank">Certification and Courses</a> 🔗
+
 <a href="https://www.linkedin.com/in/ruthuparan-prasad" target = "_blank" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
