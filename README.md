@@ -1,6 +1,6 @@
 ### Hi, I'm Ruthuparan Prasad 👋🏽
 
-I am currently pursuing a rigorous and comprehensive MSc Business Analytics degree at Warwick Business School, UK. I'm passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. I am experienced in building machine learning models, analysing large datasets and building mathematical models for optimisation across a wide range of use cases.
+I recently graduated with a Distinction in MSc Business Analytics from Warwick Business School, UK. I'm passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. I am experienced in building machine learning models, analysing large datasets and building mathematical models for optimisation across a wide range of use cases.
 
 I previously worked at Bank of America as a Software Engineer for 2 years. I worked with the onsite Fidessa AMRS team in New York as the primary developer for end-to-end stock order flow automation, enabling automatic error detection and consistency checks. 
 
