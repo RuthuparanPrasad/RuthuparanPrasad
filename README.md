@@ -12,7 +12,7 @@ An inexhaustive list of some certifications and courses I have completed: <a hre
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
     &nbsp;
-<a href="mailto:ruthuparan1998@.com" target = "_blank" rel="nofollow noreferrer">
+<a href="mailto:ruthuparan1998@com" target = "_blank" rel="nofollow noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
 </a>
 
