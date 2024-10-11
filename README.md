@@ -16,8 +16,7 @@ An inexhaustive list of some certifications and courses I have completed: <a hre
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
 </a>
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
+![](https://komarev.com/ghpvc/?username=ruthuparanprasad)
 
 #### Programming Languages:
 
