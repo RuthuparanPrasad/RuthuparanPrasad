@@ -16,8 +16,6 @@ An inexhaustive list of some certifications and courses I have completed: <a hre
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
 </a>
 
-![](https://komarev.com/ghpvc/?username=ruthuparanprasad)
-
 #### Programming Languages:
 
 <table>
