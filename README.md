@@ -1,8 +1,11 @@
 ### Hi, I'm Ruthuparan Prasad 👋🏽
 
-I recently graduated with a Distinction in MSc Business Analytics from Warwick Business School, UK. I'm passionate about leveraging the power of data and analytics to drive informed decision-making and uncover insights that propel business growth. I am experienced in building machine learning models, analysing large datasets and building mathematical models for optimisation across a wide range of use cases.
+I'm a data professional with 3+ years of experience driving insights and efficiencies across EdTech, finance, and tech sectors. I currently work as a Data Coach at Multiverse, where I empower NHS and private sector apprentices to solve real-world problems using data analytics, machine learning, and tools like Python, Power BI, and SQL.
 
 I previously worked at Bank of America as a Software Engineer for 2 years. I worked with the onsite Fidessa AMRS team in New York as the primary developer for end-to-end stock order flow automation, enabling automatic error detection and consistency checks. 
+
+I'm passionate about using data to make smarter decisions and build scalable, AI-powered solutions. I am experienced in data analysis, statistical analysis, building machine learning and forecasting models. 
+
 
 Here are some projects I worked on during my Master's programme: <a href="https://github.com/RuthuparanPrasad/MSBA-Projects" target="_blank">MSBA Projects</a> 🔗
 
