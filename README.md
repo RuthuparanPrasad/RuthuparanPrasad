@@ -6,9 +6,6 @@ I previously worked at Bank of America as a Software Engineer for 2 years. I wor
 
 I'm passionate about using data to make smarter decisions and build scalable, AI-powered solutions. I am experienced in data analysis, statistical analysis, building machine learning and forecasting models. 
 
-
-Here are some projects I worked on during my Master's programme: <a href="https://github.com/RuthuparanPrasad/MSBA-Projects" target="_blank">MSBA Projects</a> 🔗
-
 An inexhaustive list of some certifications and courses I have completed: <a href="https://www.linkedin.com/in/ruthuparan-prasad/details/certifications/" target="_blank">Certification and Courses</a> 🔗
 
 <a href="https://www.linkedin.com/in/ruthuparan-prasad" target = "_blank" rel="nofollow noreferrer">
